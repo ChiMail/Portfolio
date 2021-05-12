@@ -1,0 +1,13 @@
+a {   
+    color: rgb(46, 202, 85);
+    font-weight: bold;
+}
+
+a:hover{
+    color: rgb(243, 44, 110);
+    font-weight: bold;
+}
+
+.text-pink {
+    color: rgb(243, 44, 110);
+}
